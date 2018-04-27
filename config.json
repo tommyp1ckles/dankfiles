@@ -1,0 +1,6 @@
+{
+    "port":         ":8080",
+    "cert_file":    "dankfiles.crt",
+    "key_file":     "dankfiles.key",
+    "fs": "D:/Mythbusters"
+}
